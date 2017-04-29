@@ -1,0 +1,49 @@
+#Full Name : Team4(Myat Oo, Zijian Zhang, Mohammad Islam
+#Course Number and Title: CSC643
+#Submission Date : April 12, 2017
+#Assignment Number: Assignment_3
+
+#Purpose : 
+In this project you will analyze a data set provided by https://www.data.gov/ which is the official U.S. government site providing 
+public access to federal government datasets using Hadoop as follow:
+ 
+In this project to analyze the 2013 HADS data to run Hadoop on a cluster of 2 or 3 virtual machines to compute the relevant correlation between:
+o   Occupant data
+	�  Age of the head of the house hold
+	�  Number of persons in the household
+	�  Owner/renter status
+o   Location
+	�  City and Suburban
+	�  Region
+o   Income
+	�  Household income
+
+#Extra Credit
+To analysis for the years 2003, 2005, 2007, 2011, 2013 and compile the results into one file
+To find any correlation between the three compound variables and the years between 2003 and 2013.
+
+
+In this Project, we have 3 members.
+Member 1: Myat Noe Oo
+My teammate and I agree that I handled 33% of the overall project. 
+My specific tasks included:
+Task 1: Setting up the Hadoop with two machines
+Task 2: Help writing java files for the three compound variables (Occupant Data, Location, Income)
+Task 3: Write the java files for the Extra Credit parts and give idea to show with graphs using with excel.
+
+Member 2: Zijian Zhang
+My teammate and I agree that I handled 34% of the overall project. 
+My specific tasks included:
+Task 1: Explain about the concept idea for the whole project
+Task 2: write the java files for three compound variables (Occupant Data, Location, Income)
+Task 3: Help Writing the java files for the Extra Credits and draw the graphs excel.
+
+Member 3: Mohammad Islam
+My teammate and I agree that I handled 33% of the overall project. 
+My specific tasks included:
+Task 1: Make analysis data sets for all the years
+Task 2: Testing the codes and solving the problems
+Task 3: run the program and write for the documentation for the project 3.
+
+
+
